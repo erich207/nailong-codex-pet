@@ -1,4 +1,4 @@
-# Nailong Codex Pet 奶龙Codex宠物
+# Nailong Codex Pet 原版奶龙Codex宠物
 原版奶龙 主打一个原汁原味 拒绝奶蛙
 
 直接复制代码去终端就能安装
