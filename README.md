@@ -2,7 +2,7 @@
 
 An unofficial soft toy-style animated Codex pet inspired by the yellow Nailong character references. The pet uses the Codex v2 spritesheet format with 11 animation rows and 8 columns.
 
-![Contact sheet](qa/contact-sheet.png)
+![Nailong Codex Pet](https://raw.githubusercontent.com/erich207/nailong-codex-pet/main/spritesheet.webp)
 
 ## Files
 
