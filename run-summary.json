@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/Users/eric/Documents/New project/hatch-runs/nailong-toy",
+  "spritesheet": "/Users/eric/Documents/New project/hatch-runs/nailong-toy/final/spritesheet-extended.webp",
+  "installed_spritesheet": "/Users/eric/.codex/pets/nailong-toy/spritesheet.webp",
+  "validation": "/Users/eric/Documents/New project/hatch-runs/nailong-toy/final/validation-extended.json",
+  "installed_validation": "/Users/eric/Documents/New project/hatch-runs/nailong-toy/final/validation-installed.json",
+  "chroma_despill": "/Users/eric/Documents/New project/hatch-runs/nailong-toy/qa/chroma-despill-extended.json",
+  "contact_sheet": "/Users/eric/Documents/New project/hatch-runs/nailong-toy/qa/contact-sheet-extended.png",
+  "direction_sheet": "/Users/eric/Documents/New project/hatch-runs/nailong-toy/qa/look-directions.png",
+  "direction_semantics": "/Users/eric/Documents/New project/hatch-runs/nailong-toy/qa/direction-semantics.json",
+  "blind_review_resolution": "/Users/eric/Documents/New project/hatch-runs/nailong-toy/qa/blind-review-resolution.json",
+  "continuity": "/Users/eric/Documents/New project/hatch-runs/nailong-toy/qa/look-continuity.json",
+  "review": "/Users/eric/Documents/New project/hatch-runs/nailong-toy/qa/review.json",
+  "package": "/Users/eric/.codex/pets/nailong-toy",
+  "notes": "Installed after user accepted parent-labeled direction review because independent blind QA workers were unavailable due to usage limits."
+}
