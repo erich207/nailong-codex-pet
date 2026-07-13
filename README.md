@@ -1,4 +1,6 @@
 # Nailong Codex Pet 奶龙Codex宠物
+原版奶龙 主打一个原汁原味 拒绝奶蛙
+
 直接复制代码去终端就能安装
 
 An unofficial soft toy-style animated Codex pet inspired by the yellow Nailong character references. The pet uses the Codex v2 spritesheet format with 11 animation rows and 8 columns.
